@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Subham! 👋
 
-<!--
-**SubhamK108/SubhamK108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm a Software Developer
+- 😄 I love to make apps
+- ⚡ Check out some of my apps:
+    - [PDF-Toolkit](https://pdftoolkit.subhamk.com) (Built with .NET Blazor Webassembly)
+    - [NextWeather](https://next-weather.subhamk.com) (Built with NextJS and TailwindCSS)
+    - [BlazorWeather](https://blazor-weather.subhamk.com) (Built with .NET Blazor Webassembly)
+- 🌱 I have a personal [website](https://www.subhamk.com)
+- 💬 I'm on [Twitter](https://twitter.com/SubhamK108)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/subham-karmakar-96024b200/)
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
