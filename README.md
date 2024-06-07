@@ -8,6 +8,7 @@
     - [Blazor PDF-Toolkit](https://blazor-pdftoolkit.subhamk.com) (Built with .NET Blazor and TailwindCSS)
     - [Next Pocket Dictionary](https://next-dictionary.subhamk.com) (Built with NextJS and TailwindCSS using the [Free Dictionary API](https://github.com/meetDeveloper/freeDictionaryAPI))
     - [Blazor Pocket Dictionary](https://blazor-dictionary.subhamk.com) (Built with .NET Blazor and TailwindCSS using the [Free Dictionary API](https://github.com/meetDeveloper/freeDictionaryAPI))
+    - [Blazor FileShake](https://bfs.subhamk.com) (Built with .NET Blazor and TailwindCSS)
     - [NextWeather](https://next-weather.subhamk.com) (Built with NextJS and TailwindCSS)
     - [BlazorWeather](https://blazor-weather.subhamk.com) (Built with .NET Blazor)
 - 🌱 I have a personal [website](https://www.subhamk.com)
