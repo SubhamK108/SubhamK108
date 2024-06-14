@@ -19,8 +19,8 @@
 <!-- - 🤔 I’m looking for help with ... -->
 
 ### 🚀 My GitHub Stats
-[![Subham's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubhamK108&theme=dark "Subham's GitHub Streak")](https://git.io/streak-stats)
+[![Subham's GitHub Streak](https://streak-stats.demolab.com?user=SubhamK108&theme=github-dark-dimmed)](https://git.io/streak-stats)
 
-[![Top Languages of Subham](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamK108&hide=html,css,scss&exclude_repo=SubhamK108.github.io,Weather-App&layout=compact&theme=dark "Top Languages of Subham")](https://github.com/anuraghazra/github-readme-stats)
+[![Subham's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamK108&hide=html,css,scss&exclude_repo=SubhamK108.github.io,Weather-App&layout=donut&theme=github_dark_dimmed&custom_title=Subham's Most Used Languages)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubhamK108&layout=compact&theme=dark "Subham's GitHub Stats")](https://github.com/anuraghazra/github-readme-stats) -->
+[![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubhamK108&layout=compact&theme=github_dark_dimmed&show_icons=true&include_all_commits=true&custom_title=Subham's GitHub Stats)](https://github.com/anuraghazra/github-readme-stats)
