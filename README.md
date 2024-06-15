@@ -18,7 +18,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
-### 🚀 My GitHub Stats
+### 🚀 My GitHub Stats:
 [![Subham's GitHub Streak](https://streak-stats.demolab.com?user=SubhamK108&theme=github-dark-dimmed)](https://git.io/streak-stats)
 
 [![Subham's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamK108&hide=html,css,scss&exclude_repo=SubhamK108.github.io,Weather-App&layout=donut&theme=github_dark_dimmed&custom_title=Subham%27s%20Most%20Used%20Languages)](https://github.com/anuraghazra/github-readme-stats)
