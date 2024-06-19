@@ -6,17 +6,17 @@
 - 😄 I love to make apps
 - ⚡ Check out some of my apps:
     - PDF-Toolkit
-        - [Model A](https://next-pdftoolkit.subhamk.com) (Built with NextJS and TailwindCSS)
-        - [Model B](https://blazor-pdftoolkit.subhamk.com) (Built with .NET Blazor and TailwindCSS)
+        - [Model A](https://next-pdftoolkit.subhamk.com) (Built with NextJS and TailwindCSS • [GitHub Repo](https://github.com/SubhamK108/Next-PDF-Toolkit))
+        - [Model B](https://blazor-pdftoolkit.subhamk.com) (Built with .NET Blazor and TailwindCSS • [GitHub Repo](https://github.com/SubhamK108/Blazor-PDF-Toolkit))
     - Pocket Dictionary
-        - [Model A](https://next-dictionary.subhamk.com) (Built with NextJS and TailwindCSS using the [Free Dictionary API](https://github.com/meetDeveloper/freeDictionaryAPI))
-        - [Model B](https://blazor-dictionary.subhamk.com) (Built with .NET Blazor and TailwindCSS using the [Free Dictionary API](https://github.com/meetDeveloper/freeDictionaryAPI))
+        - [Model A](https://next-dictionary.subhamk.com) (Built with NextJS and TailwindCSS using the [Free Dictionary API](https://github.com/meetDeveloper/freeDictionaryAPI) • [GitHub Repo](https://github.com/SubhamK108/Next-Pocket-Dictionary))
+        - [Model B](https://blazor-dictionary.subhamk.com) (Built with .NET Blazor and TailwindCSS using the [Free Dictionary API](https://github.com/meetDeveloper/freeDictionaryAPI) • [GitHub Repo](https://github.com/SubhamK108/Blazor-Pocket-Dictionary))
     - FileShake
-        - [Model A](https://nfs.subhamk.com) (Built with NextJS and TailwindCSS)
-        - [Model B](https://bfs.subhamk.com) (Built with .NET Blazor and TailwindCSS)
+        - [Model A](https://nfs.subhamk.com) (Built with NextJS and TailwindCSS • [GitHub Repo](https://github.com/SubhamK108/NextFileShake))
+        - [Model B](https://bfs.subhamk.com) (Built with .NET Blazor and TailwindCSS • [GitHub Repo](https://github.com/SubhamK108/BlazorFileShake))
     - Weather App
-        - [Model A](https://next-weather.subhamk.com) (Built with NextJS and TailwindCSS)
-        - [Model B](https://blazor-weather.subhamk.com) (Built with .NET Blazor)
+        - [Model A](https://next-weather.subhamk.com) (Built with NextJS and TailwindCSS • [GitHub Repo](https://github.com/SubhamK108/NextWeather))
+        - [Model B](https://blazor-weather.subhamk.com) (Built with .NET Blazor • [GitHub Repo](https://github.com/SubhamK108/BlazorWeather))
 - 🌱 I have a personal [website](https://www.subhamk.com)
 - 💬 I'm on [X (Formerly Twitter)](https://twitter.com/SubhamK108)
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/subham-karmakar-96024b200/)
